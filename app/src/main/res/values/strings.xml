@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="finished">Đã hoàn thành</string>
+    <string name="pending">Chưa hoàn thành</string>
+    <string name="tasks_count">%1$s (%2$s)</string>
+    <string name="save">Lưu</string>
+    <string name="delete">Xoá</string>
+    <string name="description">Mô tả</string>
+    <string name="title">Tiêu đề Nhiệm vụ*</string>
+    <string name="add_task">Thêm nhiệm vụ</string>
+    <string name="update_task">Cập nhật nhiệm vụ</string>
+    <string name="delete_confirm">Xác nhận xóa nhiệm vụ</string>
+    <string name="delete_confirm_detail">Bạn thực sự muốn xóa vĩnh viên nhiệm vụ %1$s ?</string>
+    <string name="cancel">Hoàn tác</string>
+    <string name="search_hint">Nhập từ khóa…</string>
+</resources>
