@@ -10,6 +10,10 @@
 - Asynchronous and reactive: Kotlin Coroutines
 - Dependency injection: Dagger Hilt
 - Database: Room
+- Unit test: 
+  - JUnit4
+  - Robolectric + inMemoryDatabaseBuilder của Room : Test liên quan đến Room database mà không cần thiết bị emulator/device
+  - Truth : Cung cấp đa dạng hàm hơn để test kết quả thực tế và kết quả kỳ vọng
 # Kiến trúc dự án
 - Common:
   - Ext - các hàm extention
